@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">scalaModule</string>
+    <string name="sub_text">Form scala</string>
+    <string name="action">activity</string>
+</resources>
